@@ -1,0 +1,17 @@
+{
+    "name": "josanilton/api-univale",
+    "autoload": {
+        "psr-4": {
+            "Http\\": "app/Http",
+            "Model\\": "app/Model",
+            "Library\\": "lib/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Josanilton Filho",
+            "email": "josanilton.filho@gmail.com"
+        }
+    ],
+    "require": {}
+}
